@@ -1,0 +1,28 @@
+# Keil uVision local and generated files
+*.uvguix.*
+*.uvoptx
+*.uvguix
+**/Objects/
+**/Listings/
+*.o
+*.obj
+*.crf
+*.d
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.htm
+*.log
+*.dep
+*.lnp
+*.sct
+
+# Common build outputs
+Debug/
+Release/
+build/
+*.bak
+*.tmp
